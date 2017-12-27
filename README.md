@@ -1,0 +1,2 @@
+# azncoin
+AZNcoin - Azerbaijan cryptocurrency
